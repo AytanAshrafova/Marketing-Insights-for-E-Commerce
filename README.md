@@ -23,9 +23,13 @@ Datasetlər
 Dataset	Təsviri
 
 Customers_Data.csv	  Müştəri məlumatları
+
 Online_Sales.csv	   Tranzaksiya dataları
+
 Discount_Coupon.csv	  Kupon və endirim məlumatları
+
 Marketing_Spend.csv   	Marketinq xərcləri
+
 Tax_Amount.csv         	GST faizləri
 
 -----------------------------------------------
